@@ -67,3 +67,5 @@ gem "devise", "~> 4.9"
 
 gem 'execjs'
 gem 'therubyracer'
+gem "image_processing", ">= 1.2"
+
